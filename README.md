@@ -2,12 +2,12 @@
 
 this app giving the user the infomations about the queue like Kendall Notation ,how may time the nth customer will wait
 ,the number of customer at time t and the gaph of the system.
-this app can solve the next models:
-Model D/D/1/K-1
-Model M/M/1
-Model M/M/1/K
-Model M/M/C
-Model M/M/C/K
+> this app can solve the next models:
+- Model D/D/1/K-1
+- Model M/M/1
+- Model M/M/1/K
+- Model M/M/C
+- Model M/M/C/K
 # app screenshots
 ![Screenshot_٢٠٢٠١٢٢٤-٢٣٠٦٥٠](https://user-images.githubusercontent.com/54541528/103142193-0094e300-4708-11eb-86c3-f7fda37adcc5.png)
 ![Screenshot_٢٠٢٠١٢٢٤-٢٣٠٦٠٩](https://user-images.githubusercontent.com/54541528/103142192-fecb1f80-4707-11eb-9848-07ffa9780090.png) 
